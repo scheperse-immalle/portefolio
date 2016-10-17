@@ -5,4 +5,5 @@
 
 ## JavaScript
 
-'''Console.WriteLine(Aardappel)'''
+```Console.WriteLine(Aardappel)´´´
+
