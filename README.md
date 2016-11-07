@@ -29,7 +29,7 @@ Csharp heb ik leren gebruiken tijdens mijn richting Informatica Beheer.
 ## JavaScript  
 
 ```
-Console.WriteLine(Aardappel)
+Console.WriteLine(Line)
 
 ```   
 
