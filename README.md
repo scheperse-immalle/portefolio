@@ -30,7 +30,7 @@ voorbeeld van unused code na return; https://dotnetfiddle.net/8v2NKw  ; als je e
 **code refactoren**
 
 - https://github.com/MichielVE-immalle/CookieClickerWpf  --> volledige code
---> veel methodes worden herhaald, deze code kun je dus verkorten door alles dezelfde naam te geven, NIET VERGETEN; de namen moeten dan ook in uw XAML-code worden aangepast.
+--> veel methodes worden herhaald, deze code kun je dus verkorten door alles dezelfde naam te geven, NIET VERGETEN; de namen moeten dan ook in uw XAML-code worden aangepast. Dit komt doordat deze methodes eventhandlers zijn.
 
 nl.
 ```
