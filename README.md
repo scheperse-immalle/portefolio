@@ -14,6 +14,7 @@ Csharp heb ik leren gebruiken tijdens mijn richting Informatica Beheer.
 - https://dotnetfiddle.net/ypzI56  
 - https://dotnetfiddle.net/oUiGbX  
 - https://dotnetfiddle.net/IevPq4  
+--> zo heb je bevoorbeeld; integer, long, ulong, char, double , etc.
 
 **Return waardes toepassen**
 
@@ -24,7 +25,7 @@ Csharp heb ik leren gebruiken tijdens mijn richting Informatica Beheer.
 - https://dotnetfiddle.net/VT0CVE   
 - https://dotnetfiddle.net/ZVfqNW  --> belangrijk
       
-      voorbeeld van unused code na return; https://dotnetfiddle.net/8v2NKw  
+voorbeeld van unused code na return; https://dotnetfiddle.net/8v2NKw  ; als je een regel code invoegt na een return ga je er eigenlijk voor zorgen dat die regel code onder je return niet wordt gebruikt, dus gewoon weg wordt overgeslagen. Hij begint dan na de return terug van het begin.
 
 **code refactoren**
 
