@@ -26,6 +26,39 @@ Csharp heb ik leren gebruiken tijdens mijn richting Informatica Beheer.
       
       voorbeeld van unused code na return; https://dotnetfiddle.net/8v2NKw  
 
+**code refactoren**
+
+- https://github.com/MichielVE-immalle/CookieClickerWpf  --> volledige code
+--> veel methodes worden herhaald, deze code kun je dus verkorten door alles dezelfde naam te geven, NIET VERGETEN; de namen moeten dan ook in uw XAML-code worden aangepast.
+
+nl.
+```
+   private void Coockie_MouseEnter(object sender, MouseEventArgs e)
+        {
+            Coockie.Fill = new SolidColorBrush(Colors.SaddleBrown);
+            Coockie.StrokeThickness = 4;
+            Coockie.Stroke = new SolidColorBrush(Colors.Black);
+        }
+
+
+        private void Coockie_MouseLeave(object sender, MouseEventArgs e)
+        {
+            Coockie.Fill = new SolidColorBrush(Colors.Gray);
+            Coockie.StrokeThickness = 2;
+            Coockie.Stroke = new SolidColorBrush(Colors.Black);
+        }
+
+       
+
+        private void Coockie_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
+        {
+            getal = getal +1;
+            teller.Text = String.Format("{0}", getal);  
+        }
+        
+```
+
+
 ## JavaScript  
 
 ```
