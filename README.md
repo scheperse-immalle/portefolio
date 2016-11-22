@@ -59,7 +59,7 @@ nl.
         
 ```
 
-**if/then/else**
+**if/then/else**  
 De if-opdracht test de waarde die men heeft opgegeven.
 ```
 int eline = 16;
