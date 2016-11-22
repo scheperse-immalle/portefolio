@@ -90,7 +90,8 @@ Dan moet je nog een regel code afprinten in de main method om deze afteprinten;
  {
  Console.WriteLine(Berekening(3 , 3));
  }
-```
+```  
+vervolgens druk je op F5, hij print het getal 6 af (3+3=6).
 ## JavaScript  
 
 
