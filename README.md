@@ -60,8 +60,39 @@ nl.
 ```
 
 **if/then/else**
+De if-opdracht test de waarde die men heeft opgegeven.
+```
+int eline = 16;
+if (eline == 16) --> hier gaat hij na of de integer wel degelijk 16 is. als dit effectief zo is gaat hij "leuk afprinten", als het niet                                                                                                    16 is gaat hij "niet juist afprinten.
+{
+      Console.WriteLine("leuk");
+}
+else 
+{
+      Console.WriteLine("Niet juist");
+}
+```
+Het =-teken wordt in je code aangegeven als ==.
 
+als je een method wilt returnen, vb. de method;
+
+```
+static void Berekening(int getal1 , int Getal 2)
+{
+int optelling = getal1 + getal2
+return optelling
+}
+```
+
+Dan moet je nog een regel code afprinten in de main method om deze afteprinten;
+```
+ static void Main(string[] args)
+ {
+ Console.WriteLine(Berekening(3 , 3));
+ }
+```
 ## JavaScript  
+
 
 ```
 Console.WriteLine(Line)
