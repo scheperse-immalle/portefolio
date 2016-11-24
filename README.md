@@ -73,7 +73,7 @@ else
 }
 ```
 MERK OP: Het =-teken wordt in je code aangegeven als ==.  
-         wanneer je if-functie aan 2 dingen wilt laten voldoen gebruik je '&&' bv ```if(a=3 11 b=3){}```  
+         wanneer je if-functie aan 2 dingen wilt laten voldoen gebruik je '&&' bv ```if(a=3 && b=3){}```  
 
 als je een method wilt returnen, vb. de method;
 
