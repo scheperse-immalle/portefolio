@@ -93,6 +93,20 @@ Dan moet je nog een regel code afprinten in de main method om deze afteprinten;
  }
 ```  
 vervolgens druk je op F5, hij print het getal 6 af (3+3=6).
+
+##Optellen van een variable  
+stel je hebt de variable 'i' die gelijk staat 10. Je wilt er steeds 1 bijtellen door een While-loop te gebruiken. Hiervoor gebruik je '++' nl.  
+```
+ for (var i = 10; i < 26; i++){}  
+```
+Als je de variable nu steeds met 2 wilt verhogen doe je dit als volgt;  
+```
+ for (var i = 10; i < 26; i=+2){}
+```  
+of  
+```
+ for (var i = 10; i < 26; i=i+2)
+```  
 ## JavaScript  
 
 
