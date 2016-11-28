@@ -122,7 +122,8 @@ public static void Main()
 		
 	}
 ```
-de output: *  
+de output:   
+*  
            **  
            ***  
 ## JavaScript  
