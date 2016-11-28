@@ -94,7 +94,7 @@ Dan moet je nog een regel code afprinten in de main method om deze afteprinten;
 ```  
 vervolgens druk je op F5, hij print het getal 6 af (3+3=6).
 
-##Optellen van een variable  
+**Optellen van een variable**  
 stel je hebt de variable 'i' die gelijk staat 10. Je wilt er steeds 1 bijtellen door een While-loop te gebruiken. Hiervoor gebruik je '++' nl.  
 ```
  for (var i = 10; i < 26; i++){}  
