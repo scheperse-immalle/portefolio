@@ -107,17 +107,17 @@ Als je de variable nu steeds met 2 wilt verhogen doe je dit als volgt;
 **ASCII-trap**
 ```
 public static void Main()
-	{
-		PrintTrap(3);
+{
+	PrintTrap(3);
+}
+static void PrintTrap(int aantalTreden)
+{
+	for(var i=1; i<= aantalTreden; i++){
+		string s = new String('*', i);
+		Console.WriteLine(s);
 	}
-	static void PrintTrap(int aantalTreden)
-	{
-		for(var i=1; i<= aantalTreden; i++){
-			string s = new String('*', i);
-			Console.WriteLine(s);
-		}
 		
-	}
+}
 ```
 de output:   
 ```  
