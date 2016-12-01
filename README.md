@@ -125,6 +125,9 @@ de output:
            **  
            ***  
 ```
+## Eigen werkjes
+**De virtuele vriend**
+https://dotnetfiddle.net/P3ufr3
 ## JavaScript  
 
 
