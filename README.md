@@ -121,7 +121,7 @@ public static void Main()
 ```
 de output:   
 ```  
-		*  
+           *  
            **  
            ***  
 ```
