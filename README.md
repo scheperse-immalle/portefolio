@@ -104,7 +104,13 @@ Als je de variable nu steeds met 2 wilt verhogen doe je dit als volgt;
 ```
  for (var i = 10; i < 26; i=i+2){}
 ```  
-**ASCII-trap**
+**Klassen schrijven**  
+**Gegevensstructuren**  
+lijsten en *listbox*  
+_____________________  
+** Handige sites om te leren programmeren**  
+**ASCII-trap**  
+
 ```
 public static void Main()
 {
