@@ -117,8 +117,8 @@ _____________________
         //Fields, properties, methods and events go here...
     }
  ```
- *Een klasse kan bestaan uit:   
- *- Public-methoden  die door de gebruiker van het object kunnen worden aangeroepen om taken te verrichten.  
+ *Een klasse kan bestaan uit:*   
+ - Public-methoden  die door de gebruiker van het object kunnen worden aangeroepen om taken te verrichten.  
  - Properties om een toestand van een object te verkrijgen of te wijzigen.  
  - Constructermethode  
  - Private-methoden die alleen binnen het object toegankelijk is.  
