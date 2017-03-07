@@ -128,7 +128,7 @@ _____________________
  ```
  Customer object1 = new Customer();
  ```
-*Voorbeeld van een klasse met objecten en outputs heeft;*
+ *Voorbeeld van een klasse met objecten en outputs heeft;*
 ```
 public class Person
     {
