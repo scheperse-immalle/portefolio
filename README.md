@@ -3,12 +3,14 @@
 
 Csharp heb ik leren gebruiken tijdens mijn richting Informatica Beheer.  
 
-**Overloads Definiëren**
+**Overloads Definiëren**  
+_____________________  
 
 - https://dotnetfiddle.net/RXn26T  
 - https://dotnetfiddle.net/2p3lt0  
 
-**Declareren en gebruiken van variablen**
+**Declareren en gebruiken van variablen**  
+_____________________  
 
 - https://dotnetfiddle.net/B0pOkm  
 - https://dotnetfiddle.net/ypzI56  
@@ -16,7 +18,8 @@ Csharp heb ik leren gebruiken tijdens mijn richting Informatica Beheer.
 - https://dotnetfiddle.net/IevPq4  
 --> zo heb je bevoorbeeld; integer, long, ulong, char, double , etc.
 
-**Return waardes toepassen**
+**Return waardes toepassen**  
+_____________________  
 
 - https://dotnetfiddle.net/NgvLV7  
 - https://dotnetfiddle.net/7Fcpfv  
@@ -27,7 +30,8 @@ Csharp heb ik leren gebruiken tijdens mijn richting Informatica Beheer.
       
 voorbeeld van unused code na return; https://dotnetfiddle.net/8v2NKw  ; als je een regel code invoegt na een return ga je er eigenlijk voor zorgen dat die regel code onder je return niet wordt gebruikt, dus gewoon weg wordt overgeslagen. Hij begint dan na de return terug van het begin.
 
-**code refactoren**
+**code refactoren**  
+_____________________  
 
 - https://github.com/MichielVE-immalle/CookieClickerWpf  --> volledige code
 --> veel methodes worden herhaald, deze code kun je dus verkorten door alles dezelfde naam te geven, NIET VERGETEN; de namen moeten dan ook in uw XAML-code worden aangepast. Dit komt doordat deze methodes eventhandlers zijn.
@@ -60,6 +64,7 @@ nl.
 ```
 
 **if/then/else**  
+_____________________  
 De if-opdracht test de waarde die men heeft opgegeven.
 ```
 int eline = 16;
@@ -105,11 +110,15 @@ Als je de variable nu steeds met 2 wilt verhogen doe je dit als volgt;
  for (var i = 10; i < 26; i=i+2){}
 ```  
 **Klassen schrijven**  
-**Gegevensstructuren**  
-lijsten en *listbox*  
 _____________________  
+**Gegevensstructuren**  
+_____________________  
+lijsten en *listbox*  
+
 ** Handige sites om te leren programmeren**  
-**ASCII-trap**  
+_____________________  
+**ASCII-trap** 
+_____________________  
 
 ```
 public static void Main()
@@ -131,10 +140,12 @@ de output:
            **  
            ***  
 ```
-## Eigen werkjes
+## Eigen werkjes  
+_____________________  
 **De virtuele vriend**
 https://dotnetfiddle.net/P3ufr3
 ## JavaScript  
+_____________________  
 
 
 ```
