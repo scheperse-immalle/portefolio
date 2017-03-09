@@ -189,6 +189,7 @@ lijsten en *listbox*
 * https://www.codecademy.com/
 * https://www.codeschool.com/
 * https://code.org/student    
+* https://www.sololearn.com
    
 **ASCII-trap**    
      
@@ -215,7 +216,7 @@ de output:
 ```
 **Eigen werkjes**  
   
-**De virtuele vriend**
+**De virtuele vriend**  
 https://dotnetfiddle.net/P3ufr3  
  
 **JavaScript**  
