@@ -188,10 +188,11 @@ _____________________
 * https://teamtreehouse.com
 * https://www.codecademy.com/
 * https://www.codeschool.com/
-* https://code.org/student  
-**ASCII-trap** 
-_____________________  
-
+* https://code.org/student    
+   
+**ASCII-trap**    
+_____________________     
+   
 ```
 public static void Main()
 {
