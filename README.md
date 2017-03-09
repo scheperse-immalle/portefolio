@@ -241,7 +241,7 @@ de output:
 *De virtuele vriend*  
 https://dotnetfiddle.net/P3ufr3  
  
-**JavaScript**  
+##JavaScript  
   
 
 
@@ -249,6 +249,6 @@ https://dotnetfiddle.net/P3ufr3
 Console.Log(Line)
 
 ```   
-**Windows Powershell**  
+##Windows Powershell  
 
 commands; https://ss64.com/ps/ 
