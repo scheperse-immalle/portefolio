@@ -202,14 +202,19 @@ Je kan ook items uit je lijst verwijderen door volgende code te gebruiken;
 ListBox1.Items.removeAt(0);
 ```  
 --> Hier ga je vanaf het eerste item beginnen verwijderen. (index 0)  
-**Handige sites om te leren programmeren**  
+**Windows Powershell commands **  
+
+commands; https://ss64.com/ps/  
+
+**Handige sites om te leren programmeren**  
  
 
 * https://teamtreehouse.com
-* https://www.codecademy.com/
-* https://www.codeschool.com/
+* https://www.codecademy.com
+* https://www.codeschool.com
 * https://code.org/student    
 * https://www.sololearn.com
+* http://exercism.io
    
 **ASCII-trap**    
      
