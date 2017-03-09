@@ -181,7 +181,27 @@ public class Person
 **Gegevensstructuren**  
   
 lijsten en *listbox*  
-  
+De *listbox* vind je bij de WPF applicatie onder*toolbox*.
+Items toevoegen aan je *listbox* kan via XAML-code of via cs. 
+cs:  
+``` 
+private void button1_Click(object sender, System.EventArgs e)
+{
+    listBox1.Items.Add("Jan");
+    listBox1.Items.Add("Suzy");
+}
+```
+XAML:    
+```
+<ListBoxItem>Drake</ListBoxItem>
+<ListBoxItem>Marc</ListBoxItem>
+
+```  
+Je kan ook items uit je lisjt verwijderen door volgende code te gebruiken;  
+```
+ListBox1.Items.removeAt(0);
+```  
+--> Hier ga je vanaf het eerste item beginnen verwijderen. (index 0)
 **Handige sites om te leren programmeren**  
  
 
