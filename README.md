@@ -182,7 +182,7 @@ public class Person
   
 lijsten en *listbox*  
 De *listbox* vind je bij de WPF applicatie onder*toolbox*. Dit object gebruik je om gegevens op te slaan die zijn ingetypt of al zijn meegeven in cs of XAML. Je kan daarna nog *items* toevoegen, verwijderen, opvragen of er mee rekenen.  
-Items toevoegen aan je *listbox* kan via XAML-code of via cs. 
+Items toevoegen aan je *listbox* kan via XAML-code of via cs.   
 cs:  
 ``` 
 private void button1_Click(object sender, System.EventArgs e)
