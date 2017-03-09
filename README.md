@@ -128,7 +128,7 @@ Als je de variable nu steeds met 2 wilt verhogen doe je dit als volgt;
  ```
  Customer object1 = new Customer();
  ```
- *Voorbeeld van een klasse met objecten en outputs heeft;*
+ *Voorbeeld van een klasse met objecten en outputs;*
 ```
 public class Person
     {
@@ -181,7 +181,7 @@ public class Person
 **Gegevensstructuren**  
   
 lijsten en *listbox*  
-De *listbox* vind je bij de WPF applicatie onder*toolbox*.
+De *listbox* vind je bij de WPF applicatie onder*toolbox*. Dit object gebruik je om gegevens op te slaan die zijn ingetypt of al zijn meegeven in cs of XAML. Je kan daarna nog *items* toevoegen, verwijderen, opvragen of er mee rekenen.  
 Items toevoegen aan je *listbox* kan via XAML-code of via cs. 
 cs:  
 ``` 
@@ -197,11 +197,11 @@ XAML:
 <ListBoxItem>Marc</ListBoxItem>
 
 ```  
-Je kan ook items uit je lisjt verwijderen door volgende code te gebruiken;  
+Je kan ook items uit je lijst verwijderen door volgende code te gebruiken;  
 ```
 ListBox1.Items.removeAt(0);
 ```  
---> Hier ga je vanaf het eerste item beginnen verwijderen. (index 0)
+--> Hier ga je vanaf het eerste item beginnen verwijderen. (index 0)  
 **Handige sites om te leren programmeren**  
  
 
