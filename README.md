@@ -181,14 +181,14 @@ public class Person
 **Gegevensstructuren**  
 _____________________  
 lijsten en *listbox*  
-
-** Handige sites om te leren programmeren**  
+  
+**Handige sites om te leren programmeren**  
 _____________________ 
 
 * https://teamtreehouse.com
 * https://www.codecademy.com/
 * https://www.codeschool.com/
-* https://code.org/student
+* https://code.org/student  
 **ASCII-trap** 
 _____________________  
 
