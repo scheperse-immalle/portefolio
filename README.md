@@ -202,6 +202,8 @@ Je kan ook items uit je lijst verwijderen door volgende code te gebruiken;
 ListBox1.Items.removeAt(0);
 ```  
 --> Hier ga je vanaf het eerste item beginnen verwijderen. (index 0)   
+**Override**  
+* https://msdn.microsoft.com/nl-be/library/ebca9ah3.aspx  
  
 **Handige sites om te leren programmeren**  
  
