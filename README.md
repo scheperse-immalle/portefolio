@@ -256,3 +256,17 @@ Console.Log(Line)
 commands; https://ss64.com/ps/   
 **Java**  
 **Javascript**
+# Array methods
+
+Arrays hebben trouwens een heleboel interessante methods, zoals:
+
+- `push` (een element achteraan toevoegen)
+- `unshift` (een element vooraan toevoegen)
+- `shift` (het eerste element verwijderen)
+- `pop` (het laatste element verwijderen)
+
+Gebruik autocompletion of een web-reference (b.v. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) om te kijken welke methods er nog zijn.
+
+Experimenteer en beantwoord volgende vragen:
+- welke return-waarde returnen bovenstaande 4 methods?
+- wat gebeurt er telkens met de inhoud van de array?
