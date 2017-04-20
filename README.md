@@ -253,4 +253,6 @@ Console.Log(Line)
 ```   
 ##Windows Powershell  
 
-commands; https://ss64.com/ps/ 
+commands; https://ss64.com/ps/   
+**Java**  
+**Javascript**
