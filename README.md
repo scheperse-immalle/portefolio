@@ -256,7 +256,7 @@ Console.Log(Line)
 commands; https://ss64.com/ps/   
 **Java**  
 **Javascript**
-# Array methods
+***Array methods***
 
 Arrays hebben trouwens een heleboel interessante methods, zoals:
 
